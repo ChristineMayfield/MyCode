@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-06-15 15:10:13">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>ProjectDataLoad _batch</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="ProjectDataLoad _batch">7a56958d1b7c70107d21ebd5624bcb6d</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>ec26958d1b7c70107d21ebd5624bcb65</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7a56958d1b7c70107d21ebd5624bcb6d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>ProjectDataLoad</name>
+<origin_sys_id/>
+<parent display_value="ProjectDataLoad _batch">7a56958d1b7c70107d21ebd5624bcb6d</parent>
+<release_date/>
+<remote_base_update_set display_value="ProjectDataLoad _batch">7a56958d1b7c70107d21ebd5624bcb6d</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>025f51581bb8b4107d21ebd5624bcbbc</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>3656958d1b7c70107d21ebd5624bcb6e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>ProjectDataLoad _batch</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="ProjectDataLoad _batch">7a56958d1b7c70107d21ebd5624bcb6d</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>ec26958d1b7c70107d21ebd5624bcb65</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7a56958d1b7c70107d21ebd5624bcb6d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>ProjectDataLoad 2</name>
+<origin_sys_id/>
+<parent display_value="ProjectDataLoad _batch">7a56958d1b7c70107d21ebd5624bcb6d</parent>
+<release_date/>
+<remote_base_update_set display_value="ProjectDataLoad _batch">7a56958d1b7c70107d21ebd5624bcb6d</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>6a14a9f81b7030107d21ebd5624bcb5f</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>f6565d8d1b7c70107d21ebd5624bcb29</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_future_state_ervice_program</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_future_state_ervice_program" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Future State or In-Service Program</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Future State or In-Service Program</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_future_state_ervice_program</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>e2665a8c1bb074107d21ebd5624bcb8e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Future State or In-Service Program</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_future_state_ervice_program</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>2096250558</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>3256958d1b7c70107d21ebd5624bcb71</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955190000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Future State or In-Service Program</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b2665a8c8cb07410011b6631a77dbec3</update_guid>
+<update_guid_history>b2665a8c8cb07410011b6631a77dbec3:2096250558</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_3fc91e041bf074107d21ebd5624bcb5b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;MM/dd/yyyy&lt;/date_format&gt;&lt;map display_value="Project Data Load"&gt;1ff6dacc1bb074107d21ebd5624bcb09&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_mvp_date__ioc_&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_projectdataload&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 17:31:01&lt;/sys_created_on&gt;&lt;sys_id&gt;3fc91e041bf074107d21ebd5624bcb5b&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_mvp_date__ioc_&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_3fc91e041bf074107d21ebd5624bcb5b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-13 07:33:56&lt;/sys_updated_on&gt;&lt;target_field&gt;start_date&lt;/target_field&gt;&lt;target_table&gt;pm_project&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1930358346</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>3256958d1b7c70107d21ebd5624bcb74</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a044a9af20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>u_mvp_date__ioc_</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>87ba51108db8b41034398a8488ece760</update_guid>
+<update_guid_history>87ba51108db8b41034398a8488ece760:-1930358346,f25e9640d2f074101cf1e690c2a3a780:-1473793748,7bc91e0430f074102d53b977d717855c:1541856372</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_ditpr_don_id</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_ditpr_don_id" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=DITPR_DON_ID</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>DITPR_DON_ID</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_ditpr_don_id</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>e6665a8c1bb074107d21ebd5624bcbac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DITPR_DON_ID</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_ditpr_don_id</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>285618817</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>3656958d1b7c70107d21ebd5624bcb70</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013956160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.DITPR_DON_ID</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>be665a8cb5b07410d62a0f7adf1c35d5</update_guid>
+<update_guid_history>be665a8cb5b07410d62a0f7adf1c35d5:285618817</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_index_pm_project_short_description</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index"><sys_index action="INSERT_OR_UPDATE"><col_name_string>short_description</col_name_string><index_col_name element="short_description" name="task">216db0c76d2220100acb70b3534330bf</index_col_name><logical_table_name>pm_project</logical_table_name><sys_class_name>sys_index</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2021-06-13 06:30:40</sys_created_on><sys_id>e44c45d01b38b4107d21ebd5624bcbeb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>pm_project</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_index_pm_project_short_description</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-06-13 06:30:40</sys_updated_on><table display_value="Project" name="pm_project">c4ae02b91be320107d21ebd5624bcb7e</table><unique_index>false</unique_index></sys_index></record_update>]]></payload>
+<payload_hash>-1676929143</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>3656958d1b7c70107d21ebd5624bcb73</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a0410b0500000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>c4ae02b91be320107d21ebd5624bcb7e</table>
+<target_name>Project: Project Name</target_name>
+<type>Indexes</type>
+<update_domain>global</update_domain>
+<update_guid>604c45d0ae38b410b1d66b2401f078ee</update_guid>
+<update_guid_history>604c45d0ae38b410b1d66b2401f078ee:-1676929143</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_application_name</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_application_name" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Application Name</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Application Name</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_application_name</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>26665a8c1bb074107d21ebd5624bcbab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Application Name</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_application_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>901602069</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>3a56958d1b7c70107d21ebd5624bcb6f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955fd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Application Name</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ba665a8c4bb0741096a9f4212f231bd4</update_guid>
+<update_guid_history>ba665a8c4bb0741096a9f4212f231bd4:901602069</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_replacement_start_date</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_replacement_start_date" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Replacement Start Date</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Replacement Start Date</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_replacement_start_date</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>2e665a8c1bb074107d21ebd5624bcb91</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Replacement Start Date</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_replacement_start_date</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-122824436</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>3a56958d1b7c70107d21ebd5624bcb72</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Replacement Start Date</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>be665a8c97b07410066224786d5b0cc6</update_guid>
+<update_guid_history>be665a8c97b07410066224786d5b0cc6:-122824436</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_mvp_start_date</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_mvp_start_date" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=MVP Start Date</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>MVP Start Date</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_mvp_start_date</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>ae665a8c1bb074107d21ebd5624bcb98</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MVP Start Date</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_mvp_start_date</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1180680791</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>3e56958d1b7c70107d21ebd5624bcb71</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955a80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.MVP Start Date</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b6665a8c6ab074102de7bfe5fbd17cce</update_guid>
+<update_guid_history>b6665a8c6ab074102de7bfe5fbd17cce:1180680791</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_capability___4_requirement_</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_capability___4_requirement_" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Capability (Level 4 Requirement)</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Capability (Level 4 Requirement)</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_capability___4_requirement_</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>e6665a8c1bb074107d21ebd5624bcb9c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Capability (Level 4 Requirement)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_capability___4_requirement_</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1326926546</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7256958d1b7c70107d21ebd5624bcb70</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955dd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Capability (Level 4 Requirement)</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b2665a8cecb0741031e6d84e7a0dffd2</update_guid>
+<update_guid_history>b2665a8cecb0741031e6d84e7a0dffd2:1326926546</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_uii_title</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_uii_title" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=UII_TITLE</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>UII_TITLE</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_uii_title</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>62665a8c1bb074107d21ebd5624bcbaa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UII_TITLE</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_uii_title</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>577569190</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7256958d1b7c70107d21ebd5624bcb73</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955ed0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.UII_TITLE</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b6665a8c46b0741063b9ee422a110dd3</update_guid>
+<update_guid_history>b6665a8c46b0741063b9ee422a110dd3:577569190</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_import_set_row" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>ae665a8c1bb074107d21ebd5624bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_projectdataload</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>367469479</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7656958d1b7c70107d21ebd5624bcb6f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013954af0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>7a665a8c38b07410eeee2656484690bd</update_guid>
+<update_guid_history>7a665a8c38b07410eeee2656484690bd:367469479</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_replacement_finish_end_date</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_replacement_finish_end_date" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Replacement Finish End Date</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Replacement Finish End Date</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_replacement_finish_end_date</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>26665a8c1bb074107d21ebd5624bcb9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Replacement Finish End Date</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_replacement_finish_end_date</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-655945792</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7656958d1b7c70107d21ebd5624bcb72</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955cb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Replacement Finish End Date</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>be665a8cdcb0741033dccf1bb8c641d0</update_guid>
+<update_guid_history>be665a8cdcb0741033dccf1bb8c641d0:-655945792</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_mvp_date__ioc_</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_mvp_date__ioc_" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=MVP Date (IOC)</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>MVP Date (IOC)</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_mvp_date__ioc_</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>a6665a8c1bb074107d21ebd5624bcb8f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MVP Date (IOC)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_mvp_date__ioc_</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1678957835</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7a56958d1b7c70107d21ebd5624bcb71</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955280000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.MVP Date (IOC)</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b6665a8c5cb07410fa7d6ebf91a47bc4</update_guid>
+<update_guid_history>b6665a8c5cb07410fa7d6ebf91a47bc4:1678957835</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_full_loe_alignment</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_full_loe_alignment" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Full LOE Alignment</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Full LOE Alignment</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_full_loe_alignment</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>a2665a8c1bb074107d21ebd5624bcb8b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Full LOE Alignment</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_full_loe_alignment</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1199028204</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7e56958d1b7c70107d21ebd5624bcb70</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013954f60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Full LOE Alignment</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ba665a8c86b074107f76d00050f585c0</update_guid>
+<update_guid_history>ba665a8c86b074107f76d00050f585c0:-1199028204</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_33c91e041bf074107d21ebd5624bcb5f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;MM/dd/yyyy&lt;/date_format&gt;&lt;map display_value="Project Data Load"&gt;1ff6dacc1bb074107d21ebd5624bcb09&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_mvp_date__ioc_&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_projectdataload&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 17:31:01&lt;/sys_created_on&gt;&lt;sys_id&gt;33c91e041bf074107d21ebd5624bcb5f&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_mvp_date__ioc_&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_33c91e041bf074107d21ebd5624bcb5f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-13 07:33:33&lt;/sys_updated_on&gt;&lt;target_field&gt;approved_end_date&lt;/target_field&gt;&lt;target_table&gt;pm_project&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1042828197</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7e56958d1b7c70107d21ebd5624bcb73</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a044a44a20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>u_mvp_date__ioc_</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>35aa955cb778b410d29c402f3a743e74</update_guid>
+<update_guid_history>35aa955cb778b410d29c402f3a743e74:1042828197,fe5ede0cd4f0741086e77d3c6118da84:-153388177,7fc91e04a6f0741049cca9879f95565f:1746571047</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_script_b4641b041bb874107d21ebd5624bcbe3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_script"&gt;&lt;sys_transform_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;map display_value="Project Data Load"&gt;1ff6dacc1bb074107d21ebd5624bcb09&lt;/map&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+	
+	/////////////
+	/*This script is to remove red field styling that is a result of when approved end date is before planned end date. Since planned end date is calculated, sometimes the system will add a couple hours which makes this true. By resetting the field value in the approved to match the planned  (to the same value) after initial save this ref field styling goes away as now approved is not before planned
+	https://docs.servicenow.com/bundle/paris-it-business-management/page/product/project-management/task/t_CreateAProject.html
+	*/
+	////////////
+
+	var encQueryProject = 'sys_class_nameINjavascript:getValidProjectClasses()^sys_created_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()';
+
+	
+	var grProj = new GlideRecord('pm_project');
+	grProj.addEncodedQuery(encQueryProject);
+	grProj.query();
+	while(grProj.next()){
+		grProj.approved_end_date = grProj.end_date;
+		grProj.update();
+	}
+	
+
+
+})(source, map, log, target);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_transform_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 21:47:58&lt;/sys_created_on&gt;&lt;sys_id&gt;b4641b041bb874107d21ebd5624bcbe3&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;onAfter&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_script_b4641b041bb874107d21ebd5624bcbe3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-13 08:37:08&lt;/sys_updated_on&gt;&lt;when&gt;onAfter&lt;/when&gt;&lt;/sys_transform_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1069786616</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>b2565d8d1b7c70107d21ebd5624bcb29</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a048478240000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>onAfter</target_name>
+<type>Transform Script</type>
+<update_domain>global</update_domain>
+<update_guid>0539a9d812f8b410a5f8da3bc40ac823</update_guid>
+<update_guid_history>0539a9d812f8b410a5f8da3bc40ac823:1069786616,42e8ad58f6f8b410177adde7e3d8885f:-1163295507,00756d9c81b8b410ba7e32bcefce5153:-1242740247,5ba421d0a6f8b4102d2a7a81e3065730:1221574971,c58ad19c1878b41018db77ef81514c0b:-114224308,09b9511c8578b4102736208df71169a4:-666785627,79a1e34c21f874100445e6e7822d63d4:-1638892490,f580ab0c07f87410b6a5074d7a3cb83b:220870671,6c09574c86b87410d81ebbba0e1e7477:787871862,2046134414b8741034ee9dd1fad19f63:-1647332273,a8451b0441b87410249d19c91fc734fa:-1217784984,e3941b0469b87410345dc15f6d83b43f:-158864838</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_1a661a8c1bb074107d21ebd5624bcbd3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Projectdataload</label><live_feed_enabled>false</live_feed_enabled><name>u_projectdataload</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">f15db8876d2220100acb70b3534330f2</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:10</sys_created_on><sys_id>1a661a8c1bb074107d21ebd5624bcbd3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Projectdataload</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_1a661a8c1bb074107d21ebd5624bcbd3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:10</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>1872100652</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>b256958d1b7c70107d21ebd5624bcb6f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013954df0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>Projectdataload</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>36665a8c52b074100a945f2ecf8212bf</update_guid>
+<update_guid_history>36665a8c52b074100a945f2ecf8212bf:1872100652</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_primary_loe</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_primary_loe" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Primary LOE</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Primary LOE</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_primary_loe</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>aa665a8c1bb074107d21ebd5624bcbad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Primary LOE</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_primary_loe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>2100563428</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>b256958d1b7c70107d21ebd5624bcb72</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a0139562a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Primary LOE</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b2665a8ca8b0741087587ab21ab6f6d7</update_guid>
+<update_guid_history>b2665a8ca8b0741087587ab21ab6f6d7:2100563428</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_limited_deployment__ld_</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_limited_deployment__ld_" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Limited Deployment (LD)</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Limited Deployment (LD)</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_limited_deployment__ld_</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>2a665a8c1bb074107d21ebd5624bcb96</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Limited Deployment (LD)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_limited_deployment__ld_</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-288272490</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>b656958d1b7c70107d21ebd5624bcb71</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955870000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Limited Deployment (LD)</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>be665a8cedb07410cb53f0dad0510dcb</update_guid>
+<update_guid_history>be665a8cedb07410cb53f0dad0510dcb:-288272490</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_b3c91e041bf074107d21ebd5624bcb5a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;MM/dd/yyyy&lt;/date_format&gt;&lt;map display_value="Project Data Load"&gt;1ff6dacc1bb074107d21ebd5624bcb09&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_mvp_date__ioc_&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_projectdataload&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 17:31:01&lt;/sys_created_on&gt;&lt;sys_id&gt;b3c91e041bf074107d21ebd5624bcb5a&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_mvp_date__ioc_&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_b3c91e041bf074107d21ebd5624bcb5a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-13 07:33:56&lt;/sys_updated_on&gt;&lt;target_field&gt;approved_start_date&lt;/target_field&gt;&lt;target_table&gt;pm_project&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-428111490</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>b656958d1b7c70107d21ebd5624bcb74</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a044a9b1a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>u_mvp_date__ioc_</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>03ba5110a7b8b410505da37ff0ea3564</update_guid>
+<update_guid_history>03ba5110a7b8b410505da37ff0ea3564:-428111490,fa5ede0cb1f074109e97b2ac4b7d9e87:1059188424,ffc91e0485f074108c62bb76bf55a25a:1558901888</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_ditpr_don_system_name</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_ditpr_don_system_name" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=DITPR DON System Name</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>DITPR DON System Name</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_ditpr_don_system_name</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>ea665a8c1bb074107d21ebd5624bcb97</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DITPR DON System Name</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_ditpr_don_system_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-762433536</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>ba56958d1b7c70107d21ebd5624bcb70</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955970000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.DITPR DON System Name</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b2665a8c53b07410afb541acff43f1cd</update_guid>
+<update_guid_history>b2665a8c53b07410afb541acff43f1cd:-762433536</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_33c91e041bf074107d21ebd5624bcb57</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Project Data Load"&gt;1ff6dacc1bb074107d21ebd5624bcb09&lt;/map&gt;&lt;reference_value_field&gt;name&lt;/reference_value_field&gt;&lt;source_field&gt;u_primary_loe&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_projectdataload&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 17:31:01&lt;/sys_created_on&gt;&lt;sys_id&gt;33c91e041bf074107d21ebd5624bcb57&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_primary_loe&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_33c91e041bf074107d21ebd5624bcb57&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-12 17:34:53&lt;/sys_updated_on&gt;&lt;target_field&gt;primary_portfolio&lt;/target_field&gt;&lt;target_table&gt;pm_project&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-26538525</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>ba56958d1b7c70107d21ebd5624bcb73</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a014a6fed0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>u_primary_loe</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>a0ba968497f07410679e71c2e2aa200a</update_guid>
+<update_guid_history>a0ba968497f07410679e71c2e2aa200a:-26538525,37c91e0487f07410038717c3d372b259:-370397956</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_capability___3_requirement_</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_capability___3_requirement_" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Capability (Level 3 Requirement)</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Capability (Level 3 Requirement)</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_capability___3_requirement_</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>62665a8c1bb074107d21ebd5624bcb9a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Capability (Level 3 Requirement)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_capability___3_requirement_</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1244790831</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>be56958d1b7c70107d21ebd5624bcb6f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955ba0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Capability (Level 3 Requirement)</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ba665a8c90b07410f3983abaac7b1ecf</update_guid>
+<update_guid_history>ba665a8c90b07410f3983abaac7b1ecf:-1244790831</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_uii_acronym</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_uii_acronym" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=UII Acronym</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>UII Acronym</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_uii_acronym</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>a2665a8c1bb074107d21ebd5624bcb94</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UII Acronym</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_uii_acronym</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>217837416</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>be56958d1b7c70107d21ebd5624bcb72</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955650000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.UII Acronym</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b6665a8c5bb07410dd66b9eb69fe55c9</update_guid>
+<update_guid_history>b6665a8c5bb07410dd66b9eb69fe55c9:217837416</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_future_state_system</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_future_state_system" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Future State System</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Future State System</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_future_state_system</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>ee665a8c1bb074107d21ebd5624bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Future State System</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_future_state_system</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-746911745</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>f256958d1b7c70107d21ebd5624bcb71</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955560000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Future State System</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b2665a8c95b0741078c845573d3460c8</update_guid>
+<update_guid_history>b2665a8c95b0741078c845573d3460c8:-746911745</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_47cf92cc1bf074107d21ebd5624bcb22</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Project Data Load"&gt;1ff6dacc1bb074107d21ebd5624bcb09&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;[Script]&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	var pro = '';
+	var fs ='';
+	var lm = '';
+	
+	fs = source.u_future_state_system;
+	lm = source.u_limited_deployment__ld_;
+	pro = fs + ' ' + lm;
+	
+	return pro; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_projectdataload&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 17:59:04&lt;/sys_created_on&gt;&lt;sys_id&gt;47cf92cc1bf074107d21ebd5624bcb22&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;[Script]&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_47cf92cc1bf074107d21ebd5624bcb22&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-12 17:59:04&lt;/sys_updated_on&gt;&lt;target_field&gt;primary_program&lt;/target_field&gt;&lt;target_table&gt;pm_project&lt;/target_table&gt;&lt;use_source_script&gt;true&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1629165115</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>f256958d1b7c70107d21ebd5624bcb74</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a016092e70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>[Script]</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>aa3026c8f3f0741055df45f635d44fa0</update_guid>
+<update_guid_history>aa3026c8f3f0741055df45f635d44fa0:-1629165115</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_87665a8c1bb074107d21ebd5624bcbf1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>ProjectDataLoad</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_projectdataload</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>87665a8c1bb074107d21ebd5624bcbf1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ProjectDataLoad</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_87665a8c1bb074107d21ebd5624bcbf1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:13</sys_updated_on><timeline_page/><title>ProjectDataLoad</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-381965057</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>f656958d1b7c70107d21ebd5624bcb6e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013958d50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>83665a8c62b074108c21f5fb5170b1f4</update_guid>
+<update_guid_history>83665a8c62b074108c21f5fb5170b1f4:-381965057</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_ditpr_don_system_acroynm</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_ditpr_don_system_acroynm" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=DITPR DON System Acroynm</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>DITPR DON System Acroynm</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_ditpr_don_system_acroynm</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>22665a8c1bb074107d21ebd5624bcb8d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DITPR DON System Acroynm</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_ditpr_don_system_acroynm</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>52464558</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>f656958d1b7c70107d21ebd5624bcb70</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955090000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.DITPR DON System Acroynm</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>be665a8c30b0741067ddca24d62cf1c1</update_guid>
+<update_guid_history>be665a8c30b0741067ddca24d62cf1c1:52464558</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_5f5fad8f0b010300acc30e7363673a4f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Max duration (in days) allowed for a project/project task  record</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>com.snc.project.task.max_task_duration</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-09-11 11:05:30</sys_created_on><sys_id>5f5fad8f0b010300acc30e7363673a4f</sys_id><sys_mod_count>4</sys_mod_count><sys_name>com.snc.project.task.max_task_duration</sys_name><sys_package display_value="Project Management" source="com.snc.project_management_v3">b78e4a791be320107d21ebd5624bcbc6</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_5f5fad8f0b010300acc30e7363673a4f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-10 13:47:19</sys_updated_on><type>integer</type><value>5000</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=5f5fad8f0b010300acc30e7363673a4f"/></record_update>]]></payload>
+<payload_hash>-1343869530</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>f656958d1b7c70107d21ebd5624bcb73</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>179f62d69750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>com.snc.project.task.max_task_duration</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>8873139b49a0301060472faad5911adb</update_guid>
+<update_guid_history>8873139b49a0301060472faad5911adb:-1343869530,e763d75b3ea03010929978b2dbcbb937:-883731939</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_capability___2_requirement_</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_capability___2_requirement_" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Capability (Level 2 Requirement)</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Capability (Level 2 Requirement)</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_capability___2_requirement_</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>6a665a8c1bb074107d21ebd5624bcb90</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Capability (Level 2 Requirement)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_capability___2_requirement_</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>478459088</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>fa56958d1b7c70107d21ebd5624bcb6f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955370000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.Capability (Level 2 Requirement)</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ba665a8c13b07410eae7a653d11ed7c5</update_guid>
+<update_guid_history>ba665a8c13b07410eae7a653d11ed7c5:478459088</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_uii</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_uii" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=UII</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>UII</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_uii</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-12 17:16:11</sys_created_on><sys_id>66665a8c1bb074107d21ebd5624bcb95</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UII</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_uii</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-12 17:16:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1126430447</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>fa56958d1b7c70107d21ebd5624bcb72</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a013955760000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.UII</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ba665a8c50b07410e8de4ab2476debca</update_guid>
+<update_guid_history>ba665a8c50b07410e8de4ab2476debca:-1126430447</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_b7c91e041bf074107d21ebd5624bcb5d</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;MM/dd/yyyy&lt;/date_format&gt;&lt;map display_value="Project Data Load"&gt;1ff6dacc1bb074107d21ebd5624bcb09&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_mvp_date__ioc_&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_projectdataload&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 17:31:01&lt;/sys_created_on&gt;&lt;sys_id&gt;b7c91e041bf074107d21ebd5624bcb5d&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_mvp_date__ioc_&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_b7c91e041bf074107d21ebd5624bcb5d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-13 07:33:56&lt;/sys_updated_on&gt;&lt;target_field&gt;end_date&lt;/target_field&gt;&lt;target_table&gt;pm_project&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1179812317</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>fe565d8d1b7c70107d21ebd5624bcb28</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a044a9ac70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>u_mvp_date__ioc_</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>0fba51105cb8b4109a82c9be5a057e5c</update_guid>
+<update_guid_history>0fba51105cb8b4109a82c9be5a057e5c:1179812317,f65e9640a3f07410d95a11ea7450437d:-629766445,f3c91e043df0741078e1c8a57a23c35e:-1323834341</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_data_source_8e66128c1bb074107d21ebd5624bcb35</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_data_source"&gt;&lt;sys_data_source action="INSERT_OR_UPDATE"&gt;&lt;batch_size&gt;1000&lt;/batch_size&gt;&lt;category/&gt;&lt;connection_timeout&gt;0&lt;/connection_timeout&gt;&lt;connection_url&gt;attachment://sys_data_source:8e66128c1bb074107d21ebd5624bcb35/testforupload_servicenow log it portoflio test data_application and cost.xlsx&lt;/connection_url&gt;&lt;connection_url_parameters/&gt;&lt;csv_delimiter/&gt;&lt;data_in_single_column&gt;false&lt;/data_in_single_column&gt;&lt;data_loader&gt;&lt;![CDATA[(function loadData(import_set_table) {
+
+	// Add your code here to insert data to import_set_table
+
+})(import_set_table);]]&gt;&lt;/data_loader&gt;&lt;data_stream_action/&gt;&lt;data_stream_action_inputs/&gt;&lt;database_name/&gt;&lt;database_port/&gt;&lt;discard_arrays&gt;true&lt;/discard_arrays&gt;&lt;expand_node_children&gt;false&lt;/expand_node_children&gt;&lt;file_path&gt;testforupload_servicenow log it portoflio test data_application and cost.xlsx&lt;/file_path&gt;&lt;file_retrieval_method&gt;Attachment&lt;/file_retrieval_method&gt;&lt;format&gt;Excel&lt;/format&gt;&lt;glide_keystore&gt;false&lt;/glide_keystore&gt;&lt;header_row&gt;1&lt;/header_row&gt;&lt;import_set_table_label/&gt;&lt;import_set_table_name&gt;u_projectdataload&lt;/import_set_table_name&gt;&lt;instance_name/&gt;&lt;jdbc_password/&gt;&lt;jdbc_server/&gt;&lt;jdbc_user_name/&gt;&lt;jpath_root_node/&gt;&lt;last_run_database_field/&gt;&lt;last_run_datetime/&gt;&lt;last_success_import_time/&gt;&lt;ldap_target/&gt;&lt;ldapprobe_result_set_rows&gt;200&lt;/ldapprobe_result_set_rows&gt;&lt;limit/&gt;&lt;maximum_rows/&gt;&lt;mid_server/&gt;&lt;name&gt;testforupload_servicenow log it portofli&lt;/name&gt;&lt;offset&gt;0&lt;/offset&gt;&lt;oracle_port&gt;1521&lt;/oracle_port&gt;&lt;oracle_sid&gt;orcl&lt;/oracle_sid&gt;&lt;parsing_script&gt;&lt;![CDATA[// The input value can be accessed through the variables named "line", "lineNumber" and "result"// The function uses result variable to return parse result back. (function(line,lineNumber,result) {	// add code here})(line,lineNumber,result);]]&gt;&lt;/parsing_script&gt;&lt;properties/&gt;&lt;query&gt;All Rows from Table&lt;/query&gt;&lt;query_timeout&gt;0&lt;/query_timeout&gt;&lt;request_action/&gt;&lt;scp_authentication&gt;Username and Password&lt;/scp_authentication&gt;&lt;scp_password/&gt;&lt;scp_port/&gt;&lt;scp_server/&gt;&lt;scp_user_name/&gt;&lt;sheet_number&gt;1&lt;/sheet_number&gt;&lt;sql_statement/&gt;&lt;ssh_keyfile_path/&gt;&lt;support_pagination&gt;false&lt;/support_pagination&gt;&lt;sys_class_name&gt;sys_data_source&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 17:16:09&lt;/sys_created_on&gt;&lt;sys_id&gt;8e66128c1bb074107d21ebd5624bcb35&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;testforupload_servicenow log it portofli&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_data_source_8e66128c1bb074107d21ebd5624bcb35&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-12 17:16:13&lt;/sys_updated_on&gt;&lt;table_name/&gt;&lt;type&gt;File&lt;/type&gt;&lt;use_batch_import&gt;false&lt;/use_batch_import&gt;&lt;use_integrated_authentication&gt;false&lt;/use_integrated_authentication&gt;&lt;use_last_run_datetime&gt;false&lt;/use_last_run_datetime&gt;&lt;xpath_root_node/&gt;&lt;zipped&gt;false&lt;/zipped&gt;&lt;/sys_data_source&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=8e66128c1bb074107d21ebd5624bcb35"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>556681623</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>fe56958d1b7c70107d21ebd5624bcb6e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a0139582f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>testforupload_servicenow log it portofli</target_name>
+<type>Data Source</type>
+<update_domain>global</update_domain>
+<update_guid>43665a8cc0b074107c3805be9d88f6f0</update_guid>
+<update_guid_history>43665a8cc0b074107c3805be9d88f6f0:556681623,cb665a8c92b074109e39f25ab88eccee:1279527799</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_projectdataload_u_navy_data_headers</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_navy_data_headers" table="u_projectdataload"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=NAVY Data Headers</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>NAVY Data Headers</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_navy_data_headers</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_projectdataload</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-13 07:46:11</sys_created_on><sys_id>f28d95541bb8b4107d21ebd5624bcb3a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NAVY Data Headers</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_projectdataload_u_navy_data_headers</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-13 07:46:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>281111810</payload_hash>
+<remote_update_set display_value="ProjectDataLoad">3656958d1b7c70107d21ebd5624bcb6e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>fe56958d1b7c70107d21ebd5624bcb71</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a0455d5c80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table>u_projectdataload</table>
+<target_name>ProjectDataLoad.NAVY Data Headers</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>fa8d95544eb8b4102e3bcbb1f61e19c7</update_guid>
+<update_guid_history>fa8d95544eb8b4102e3bcbb1f61e19c7:281111810</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_map_1ff6dacc1bb074107d21ebd5624bcb09</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;false&lt;/copy_empty_fields&gt;&lt;create_new_record_on_empty_coalesce_fields&gt;false&lt;/create_new_record_on_empty_coalesce_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;Project Data Load&lt;/name&gt;&lt;order&gt;50&lt;/order&gt;&lt;run_business_rules&gt;true&lt;/run_business_rules&gt;&lt;run_script&gt;true&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+    /*
+	This tranform map script will create short desciptions for project and tasks using lowest level application and capability - there will be a unique short description for the project and each of its project tasks
+	*/
+
+    //set these for MVP date project being created in UI mapped fields
+    target.allow_dates_outside_schedule = '1';
+    target.project_schedule_date_format = 'date';
+    target.calculation_type = 'manual';
+	target.duration = '0';
+
+
+    //the rest of this script is to create one project with 3 tasks if data is correct in source row
+    var app = '';
+    var ca = '';
+    var fs = source.u_future_state_system.toString();
+    var sd = false;
+
+    //find lowest level application in the row
+	app = getApp(source.u_application_name, source.u_ditpr_don_system_acroynm, source.u_uii_acronym);
+    //gs.log('mayfield ' + app);
+
+    //find lowest level capability in the row
+	ca = getCapability(source.u_capability___2_requirement_ , source.u_capability___3_requirement_, source.u_capability___4_requirement_);
+    //gs.log('mayfield ' + ca);
+
+    //create short descriptions to be used for project and tasks
+    if (app != '' &amp;&amp; ca != '' &amp;&amp; fs != '') {
+        var sdProj = ca + ' capability for application ' + app + ' conversion to ' + fs;
+        var sdPTmodern = 'MODERNIZATION: ' + ca + ' capability for application ' + app + ' conversion to ' + fs;
+        var sdPTdecom = 'DATA MIGRATION AND DECOMMISSION: ' + ca + ' capability for application ' + app + ' conversion to ' + fs;
+        var sdPTmvp = 'MVP Date (IOC): ' + ca + ' capability for application ' + app + ' conversion to ' + fs;
+        sd = true;
+    }
+
+    var modStart = new GlideDateTime();
+    var modEnd = new GlideDateTime();
+    var decomStart = new GlideDateTime();
+    var decomEnd = new GlideDateTime();
+    var mvpDate = false;
+    var modS = false;
+    var decomS = false;
+    var decomE = false;
+
+
+    //set vars for start and end dates
+    if (source.u_mvp_start_date) {
+        modStart = source.u_mvp_start_date + ' 00:00:00';
+        modS = true;
+    }
+    if (source.u_mvp_date__ioc_) {
+        modEnd = source.u_mvp_date__ioc_ + ' 00:00:00';
+        mvpDate = true;
+    }
+    if (source.u_replacement_start_date) {
+        decomStart = source.u_replacement_start_date + ' 00:00:00';
+        decomS = true;
+    }
+    if (source.u_replacement_finish_end_date) {
+        decomEnd = source.u_replacement_finish_end_date + ' 00:00:00';
+        decomE = true;
+    }
+
+    //gs.log('mayfield  modStart ' + modStart + ' modEnd ' + modEnd + ' decomStart ' + decomStart + ' decomEnd ' + decomEnd);
+
+    //project and tasks should only be created if capability, app, fs, mvp date, modStart and decomEnd
+    if (sd &amp;&amp; mvpDate &amp;&amp; modS &amp;&amp; decomE) {
+
+        //create portfolio and program values
+        var port = getPortfolio(source.u_primary_loe);
+        var progS = fs + ' ' + source.u_limited_deployment__ld_;
+        var prog = getProgram(progS, port);
+
+        //create project record and capture sys id to be used in creating child project task records
+        var grProjSys = '';
+        var grProj = new GlideRecord('pm_project');
+        grProj.initialize();
+        grProj.short_description = sdProj;
+        grProj.primary_portfolio = port;
+        grProj.primary_program = prog;
+        grProj.project_schedule_date_format = 'date';
+        grProj.calculation_type = 'manual';
+        grProj.start_date = modStart; //Planned Start Date
+        grProj.approved_start_date = modStart;
+        grProj.end_date = decomEnd; //Planned End Date
+        grProj.approved_end_date = decomEnd;
+        grProjSys = grProj.insert();
+
+        ///////////////////////////////////////
+        //create project task for modernization
+        var grPTmodern = new GlideRecord('pm_project_task');
+        grPTmodern.initialize();
+        grPTmodern.newRecord(); //record would not create without this add, but only for task
+        grPTmodern.short_description = sdPTmodern;
+        grPTmodern.primary_portfolio = port;
+        grPTmodern.primary_program = prog;
+        grPTmodern.time_constraint = 'start_on';
+        grPTmodern.allow_dates_outside_schedule = '1'; //will not work without this
+        grPTmodern.start_date = modStart; //Planned Start Date
+        grPTmodern.end_date = modEnd; //Planned End Date
+		//if you don't calculate duration, end date will not set properly
+        var plannedTaskApi = new SNC.PlannedTaskAPI();
+        var response = plannedTaskApi.calculateDurationInternal(modStart, modEnd, "");
+        //gs.log('mayfield response ' + response);
+        var jsonResponse = JSON.parse(response);
+        if ('duration' in jsonResponse) {
+            var dur = jsonResponse.duration;
+        }
+        //gs.log('mayfield dur ' + dur + ' jsonResponse ' + jsonResponse);
+        grPTmodern.duration = dur;
+        grPTmodern.parent = grProjSys;
+        grPTmodern.sub_tree_root = grProjSys;
+        grPTmodern.top_task = grProjSys;
+        grPTmodern.insert();
+        ////////////////////////
+
+        /////////////////////////
+        //create project task for data migration and decommission
+        if (decomS &amp;&amp; decomE) {
+            var grPTdecom = new GlideRecord('pm_project_task');
+            grPTdecom.initialize();
+            grPTdecom.newRecord();
+            grPTdecom.short_description = sdPTdecom;
+            grPTdecom.primary_portfolio = port;
+            grPTdecom.primary_program = prog;
+            grPTdecom.time_constraint = 'start_on';
+            grPTdecom.allow_dates_outside_schedule = '1';
+            grPTdecom.start_date = decomStart; //Planned Start Date
+            grPTdecom.end_date = decomEnd; //Planned End Date
+			//if you don't calculate duration, end date will not set properly
+            var plannedTaskApi2 = new SNC.PlannedTaskAPI();
+            var response2 = plannedTaskApi2.calculateDurationInternal(decomStart, decomEnd, "");
+            //gs.log('mayfield response2 ' + response2);
+            var jsonResponse2 = JSON.parse(response2);
+            if ('duration' in jsonResponse2) {
+                var dur2 = jsonResponse2.duration;
+            }
+            //gs.log('mayfield dur2 ' + dur2 + ' jsonResponse2 ' + jsonResponse2);
+            grPTdecom.duration = dur2;
+            grPTdecom.parent = grProjSys;
+            grPTdecom.sub_tree_root = grProjSys;
+            grPTdecom.top_task = grProjSys;
+            grPTdecom.insert();
+        }
+
+        //create project task for milestone
+        var grPTmile = new GlideRecord('pm_project_task');
+        grPTmile.initialize();
+        grPTmile.newRecord();
+        grPTmile.short_description = sdPTmvp;
+        grPTmile.primary_portfolio = port;
+        grPTmile.primary_program = prog;
+        grPTmile.time_constraint = 'start_on';
+        grPTmile.allow_dates_outside_schedule = '1';
+        grPTmile.start_date = modEnd; //Planned Start Date
+        grPTmile.end_date = modEnd; //Planned End Date
+        grPTmile.duration = '0';
+        grPTmile.milestone = '1';
+        grPTmile.parent = grProjSys;
+        grPTmile.sub_tree_root = grProjSys;
+        grPTmile.top_task = grProjSys;
+        grPTmile.insert();
+    }
+
+
+
+})(source, target, map, log, action === "update");
+
+function getPortfolio(portfolioName) {
+
+    var portName = portfolioName;
+    var portSys = "";
+
+    var grPort = new GlideRecord('pm_portfolio');
+    grPort.addQuery('name', portName);
+    grPort.query();
+
+    if (grPort.next()) { //if portfolio record already exists
+        portSys = grPort.sys_id;
+    } else { //create new portfolio record
+        grPort.initialize();
+        grPort.name = portName;
+        portSys = grPort.insert();
+    }
+    return portSys;
+}
+
+function getProgram(programName, portfolioName) {
+
+    var portName = portfolioName;
+    var progName = programName;
+
+    var progSys = "";
+
+    var grProg = new GlideRecord('pm_program');
+    grProg.addQuery('short_description', progName);
+    grProg.query();
+
+    if (grProg.next()) { //if portfolio record already exists
+        progSys = grProg.sys_id;
+    } else { //create new portfolio record
+		
+		var sd = new GlideDateTime('2019-01-08 00:00:00');
+		var ed = new GlideDateTime('2030-09-30 00:00:00');
+        grProg.initialize();
+        grProg.short_description = progName;
+        grProg.portfolio = getPortfolio(portName);
+        grProg.start_date = sd;
+        grProg.end_date = ed;
+        progSys = grProg.insert();
+    }
+    return progSys;
+}
+
+function getApp(appName, DTPR, UII) {
+
+	var ap = appName;
+	var DTP = DTPR;
+	var UI = UII;
+	var app = '';
+	
+	if (appName != '' &amp;&amp; appName != 'n/a' &amp;&amp; appName != 'N/A') {
+        app = appName;
+    } else if (DTP != '' &amp;&amp; DTP != 'n/a' &amp;&amp; DTP != 'N/A') {
+        app = DTP;
+    } else {
+        app = UI;
+    }
+	
+    return app;
+}
+
+function getCapability(capabil2, capabil3, capabil4) {
+
+	var cap2 = capabil2;
+	var cap3 = capabil3;
+	var cap4 = capabil4;
+	var ca = '';
+	
+	if (cap4 != '' &amp;&amp; cap4 != 'n/a' &amp;&amp; cap4 != 'N/A') {
+        ca = cap4;
+    } else if (cap3 != '' &amp;&amp; cap3 != 'n/a' &amp;&amp; cap3 != 'N/A') {
+        ca = cap3;
+    } else {
+        ca = cap2;
+    }
+	
+    return ca;
+}
+]]&gt;&lt;/script&gt;&lt;source_table&gt;u_projectdataload&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 17:22:23&lt;/sys_created_on&gt;&lt;sys_id&gt;1ff6dacc1bb074107d21ebd5624bcb09&lt;/sys_id&gt;&lt;sys_mod_count&gt;76&lt;/sys_mod_count&gt;&lt;sys_name&gt;Project Data Load&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_1ff6dacc1bb074107d21ebd5624bcb09&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-14 21:24:34&lt;/sys_updated_on&gt;&lt;target_table&gt;pm_project&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1148178274</payload_hash>
+<remote_update_set display_value="ProjectDataLoad 2">f6565d8d1b7c70107d21ebd5624bcb29</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>7e565d8d1b7c70107d21ebd5624bcb29</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a0c6971920000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>Project Data Load</target_name>
+<type>Table Transform Map</type>
+<update_domain>global</update_domain>
+<update_guid>f07261f4547030109ab0eb2c7eb61d3b</update_guid>
+<update_guid_history>f07261f4547030109ab0eb2c7eb61d3b:-1148178274,4a7f91fc1530301015df953a3487ea2a:-1741528834,2c9cdd503bb8b41045a9f65ac86fe2b8:-1148178274,073cdd50d2b8b4106878a8c664d8edb5:423373918,6dfb55102db8b4101adbf42ee5e67850:-1120543362,fabbdd5069b8b4101ddf679adde71265:1862182376,15da99dc0378b41077cb6963a7ed797d:-1120543362,dbb85958e978b4105b0f627b757681ce:1740616240,2bf75d94e878b410554292af89201384:-1779802085,1a8719582578b410caff066a3ba6c548:1524134459,1e069dd0a978b4103ac3bca145f7d99f:1006928942,85b319506878b410e1ccd10d60a214ee:-2027246111,7b4251dc0738b410de4d0a782c6602ee:1725038785,940211d8d738b4101d9d8c0d603fd642:1220168721,602059d40a38b41007119ed2104ac437:-174210567,762f49d45038b4105fbb65fdba24ea94:-610735968,a9dd85147c38b410bd37260500c9d335:-597851437,c2ccc990a938b41021b0ddf41c125c8c:95561696,73eb0d10e838b410cf132b823f14fac7:716990949,f95bcddc5ff4b410909cc340ebebcb61:1704781381,fdea89dc6bf4b410d82d789fc12b54b4:1142368188,c35ac5d828f4b410fa73ebdbf7c035c3:1212122747,4dc9c59c7cf4b410691fde4969f59ed4:513272145,cba901d8d0f4b410387916e0e80981d1:-1720729817,9f18cd9868f4b41094004135b52a77d3:-1765829710,168785983df4b410998b6ff771384302:965332625,2c16899429f4b410a76fef1c73d86a4c:-1357198534,e56405dc0bb4b410c1dce5d47a3e952c:-563248114,aed30d9cadb4b410f76e80318079f7c6:-1564769458,18230d9c28b4b4102b4f45e0f6339a55:-767733371,6032019ce6b4b4107f088a70efbc4025:1045044056,dbc1c9989cb4b410e934330bdc957bbb:-1586750961,1c91c99897b4b410488cf989e10988b6:-126799708,57bf7cd428b4b41078886041aeb55c13:-399863794,1d3d389048b4b4107b6fa121b9d4a2cd:333769774,b492abcc64f87410e8f569d0be352f2c:-660454450,af50670c45f87410569cf1100b62c25f:1601883711,553e1fc43df87410879cf46bb2f69e8b:-2037830717,058d9f0447f87410440e936959dc14d0:1852337667,a62d1f0430f87410f65ea7238048dddd:-303526493,44bc97c0e6f874107dafa6b683bfe67b:1386033812,0deb9b0091f874105916e8adcdd79f41:-2012871121,ce6b5780acf874106c209882a86162eb:1564574501,98f9db0864b87410cdb3e8796db52b5d:2023564214,6aa89f480bb87410329c108b5ef0265b:-1297830508,ee27db08ddb8741009f68d9c4481744a:1299277759,7b445fc0a7b87410ef3dd6a7902c439e:-792661857,03631380f4b87410b08df1361e0c9f3b:-1126566945,1643930033b87410761680b3b6ce328a:1454081631,fbd257cc767874106af8210427442044:-739916634,055217cc1a787410e56a00fac45f5903:1433132959,22c19fc81c7874103321cf72ca4a114b:-1472442819,caefcf885a787410d94db7b484b276a3:-382282093,443e0f048778741021fdd80750fd924f:1626238351,f61ecf84c57874106307e51725d9d3a5:-356752308,aa3bc300c278741014aa75b2dbb055e5:-33697521,42ba4f4c163874104e427e0375f1400a:-1505787025,0d390b88d9387410ac0c27c332e615b5:-2113424364,9ceaba8051f474105ebc3b76d8064b79:-805714664,a449be0c4eb474104c78938cb7e76d15:-18231365,04683a0ca1b474105d2efd0fc1b97384:744899233,8897fe0c3db4741027b3fb11a31d79ae:-587409548,ff95be8471b47410cea5f53ae0d95a99:-1806297002,a583f2c084b474109e9af71bfab8296d:1918924732,bce2fe8c6a747410996f6671007d02d6:-386837795,dfb2fe8c95747410804258afe86e71be:525497208,6262b68020b474106a9b6be8d34a1737:908138839,e8b0be44e2747410e2fa9bb533c330ac:1620862562,d45032844a747410c942dd38af5c852c:1529105958,656c2284fc747410df2ab371bb2e1e28:-1088649004,320b2604c3747410a1740a4c258d2a74:-366347300,0419e20027747410b6b23c9555d95074:-2092246307,2c186e8cab347410d77314f2b88b2895:2075691357,2a97a64c7834741029dba034b8adb461:1983709682,4a47ee84133474106474932dd2d58419:-577914666,2de4eac077347410c7c267c0058948b3:1783120763,a9d7564ca7b07410110e0fa2baacd1e0:592425786</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_55ead2401bf074107d21ebd5624bcbd5</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;true&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Project Data Load"&gt;1ff6dacc1bb074107d21ebd5624bcb09&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;[Script]&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+    var sd = '';
+    var app = '';
+    var ca = '';
+    var fs = source.u_future_state_system;
+
+	//find lowest level application in the row
+    if (source.u_application_name != '' &amp;&amp; source.u_application_name != 'n/a' &amp;&amp; source.u_application_name != 'N/A') {
+        app = source.u_application_name.toString();
+    } else if (source.u_ditpr_don_system_acroynm != '' &amp;&amp; source.u_ditpr_don_system_acroynm != 'n/a' &amp;&amp; source.u_ditpr_don_system_acroynm != 'N/A') {
+        app = source.u_ditpr_don_system_acroynm.toString();
+    }else{
+		app = source.u_uii_acronym.toString();
+	}
+	
+		//find lowest level capability in the row
+    if (source.u_capability___4_requirement_ != '' &amp;&amp; source.u_capability___4_requirement_ != 'n/a' &amp;&amp; source.u_capability___4_requirement_ != 'N/A') {
+        ca = source.u_capability___4_requirement_.toString();
+    } else if (source.u_capability___3_requirement_ != '' &amp;&amp; source.u_capability___3_requirement_ != 'n/a' &amp;&amp; source.u_capability___3_requirement_ != 'N/A') {
+        ca = source.u_capability___3_requirement_.toString();
+    }else{
+		ca = source.u_capability___2_requirement_.toString();
+	}
+	
+	
+
+	sd = 'MVP: ' + ca + ' capability for ' + app + ' conversion to ' + fs;
+	gs.log('mayfield MVP SD ' + sd);
+    return sd; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_projectdataload&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-12 17:42:52&lt;/sys_created_on&gt;&lt;sys_id&gt;55ead2401bf074107d21ebd5624bcbd5&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;[Script]&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_55ead2401bf074107d21ebd5624bcbd5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-14 21:25:17&lt;/sys_updated_on&gt;&lt;target_field&gt;short_description&lt;/target_field&gt;&lt;target_table&gt;pm_project&lt;/target_table&gt;&lt;use_source_script&gt;true&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1540339227</payload_hash>
+<remote_update_set display_value="ProjectDataLoad 2">f6565d8d1b7c70107d21ebd5624bcb29</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-15 15:10:13</sys_created_on>
+<sys_id>ba565d8d1b7c70107d21ebd5624bcb29</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17a0c6a1a400000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-15 15:10:13</sys_updated_on>
+<table/>
+<target_name>[Script]</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>db922df474703010f11f16124a7c95c3</update_guid>
+<update_guid_history>db922df474703010f11f16124a7c95c3:1540339227,7410e5fc8f3030101f64fc9fc03e7bba:1681465684,2dbe55bc473030108575dcbe014cf312:-1281582760,789e9d7c41303010554ba04541708f35:1074420914,45315b0cf7787410833ff96d37c066a2:1389397938,fdcf5acc15f074108a139af7205dda2c:549997139,4bddd2405cf07410a0c9b144d38e91b8:1611890102,876d128c44b07410ef1c248aa283cc6e:47223912,598c5a8cedb0741060df503ca85e1d1d:1266065394</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
